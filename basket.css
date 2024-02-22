@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar-brand img {
+    width: 83px;
+    height: 31px;
+}
+.seatchform{
+    width: 250px;
+}
+.footimg1{
+    width: 80px;
+}
+.footimg2{
+    width: 80px;
+}
+footer i{
+    font-size: 20px;
+}
+li{
+    list-style: none;
+}
